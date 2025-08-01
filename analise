@@ -1,0 +1,2306 @@
+Iniciando teste de busca de estoque para um SKU específico no Mercado Livre (v3)...
+Buscando o ID do anúncio PAI para o SKU: 100087A...
+ID do Anúncio Pai encontrado: MLB3936980507
+Resposta completa da API (para depuração):
+Array
+(
+    [id] => MLB3936980507
+    [site_id] => MLB
+    [title] => Tapete Para Banheiro Macio Absorvente Antiderrapante Bolinha
+    [family_name] => 
+    [seller_id] => 64596886
+    [category_id] => MLB186136
+    [user_product_id] => 
+    [official_store_id] => 
+    [price] => 59.9
+    [base_price] => 59.9
+    [original_price] => 
+    [inventory_id] => 
+    [currency_id] => BRL
+    [initial_quantity] => 8
+    [available_quantity] => 2
+    [sold_quantity] => 6
+    [sale_terms] => Array
+        (
+            [0] => Array
+                (
+                    [id] => WARRANTY_TIME
+                    [name] => Tempo de garantia
+                    [value_id] => 
+                    [value_name] => 7 dias
+                    [value_struct] => Array
+                        (
+                            [number] => 7
+                            [unit] => dias
+                        )
+
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 7 dias
+                                    [struct] => Array
+                                        (
+                                            [number] => 7
+                                            [unit] => dias
+                                        )
+
+                                )
+
+                        )
+
+                    [value_type] => number_unit
+                )
+
+            [1] => Array
+                (
+                    [id] => WARRANTY_TYPE
+                    [name] => Tipo de garantia
+                    [value_id] => 2230280
+                    [value_name] => Garantia do vendedor
+                    [value_struct] => 
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 2230280
+                                    [name] => Garantia do vendedor
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => list
+                )
+
+        )
+
+    [buying_mode] => buy_it_now
+    [listing_type_id] => gold_special
+    [start_time] => 2024-12-19T13:47:26.072Z
+    [stop_time] => 2044-12-14T04:00:00.000Z
+    [end_time] => 2044-12-14T04:00:00.000Z
+    [expiration_time] => 2025-11-24T12:02:53.170Z
+    [condition] => new
+    [permalink] => https://produto.mercadolivre.com.br/MLB-3936980507-tapete-para-banheiro-macio-absorvente-antiderrapante-bolinha-_JM
+    [thumbnail_id] => 751690-MLB81240972384_122024
+    [thumbnail] => http://http2.mlstatic.com/D_751690-MLB81240972384_122024-I.jpg
+    [pictures] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 687603-MLB81667519350_012025
+                    [url] => http://http2.mlstatic.com/D_687603-MLB81667519350_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_687603-MLB81667519350_012025-O.jpg
+                    [size] => 499x500
+                    [max_size] => 1198x1200
+                    [quality] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 795943-MLB81267013278_122024
+                    [url] => http://http2.mlstatic.com/D_795943-MLB81267013278_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_795943-MLB81267013278_122024-O.jpg
+                    [size] => 492x500
+                    [max_size] => 1159x1176
+                    [quality] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 834082-MLB81940086775_012025
+                    [url] => http://http2.mlstatic.com/D_834082-MLB81940086775_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_834082-MLB81940086775_012025-O.jpg
+                    [size] => 459x500
+                    [max_size] => 1102x1200
+                    [quality] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 948180-MLB81240972388_122024
+                    [url] => http://http2.mlstatic.com/D_948180-MLB81240972388_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_948180-MLB81240972388_122024-O.jpg
+                    [size] => 500x457
+                    [max_size] => 1200x1097
+                    [quality] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 751690-MLB81240972384_122024
+                    [url] => http://http2.mlstatic.com/D_751690-MLB81240972384_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_751690-MLB81240972384_122024-O.jpg
+                    [size] => 500x488
+                    [max_size] => 646x631
+                    [quality] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 680090-MLB81667648702_012025
+                    [url] => http://http2.mlstatic.com/D_680090-MLB81667648702_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_680090-MLB81667648702_012025-O.jpg
+                    [size] => 492x500
+                    [max_size] => 1159x1176
+                    [quality] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 920585-MLB81667658654_012025
+                    [url] => http://http2.mlstatic.com/D_920585-MLB81667658654_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_920585-MLB81667658654_012025-O.jpg
+                    [size] => 498x500
+                    [max_size] => 1197x1200
+                    [quality] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 873202-MLB81240972394_122024
+                    [url] => http://http2.mlstatic.com/D_873202-MLB81240972394_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_873202-MLB81240972394_122024-O.jpg
+                    [size] => 493x500
+                    [max_size] => 1184x1200
+                    [quality] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 685024-MLB81240972390_122024
+                    [url] => http://http2.mlstatic.com/D_685024-MLB81240972390_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_685024-MLB81240972390_122024-O.jpg
+                    [size] => 500x455
+                    [max_size] => 1200x1092
+                    [quality] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 818578-MLB81667658708_012025
+                    [url] => http://http2.mlstatic.com/D_818578-MLB81667658708_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_818578-MLB81667658708_012025-O.jpg
+                    [size] => 492x500
+                    [max_size] => 1159x1176
+                    [quality] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 961250-MLB81667746630_012025
+                    [url] => http://http2.mlstatic.com/D_961250-MLB81667746630_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_961250-MLB81667746630_012025-O.jpg
+                    [size] => 498x500
+                    [max_size] => 1197x1200
+                    [quality] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 918657-MLB81267120878_122024
+                    [url] => http://http2.mlstatic.com/D_918657-MLB81267120878_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_918657-MLB81267120878_122024-O.jpg
+                    [size] => 481x500
+                    [max_size] => 1156x1200
+                    [quality] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 789392-MLB81240972386_122024
+                    [url] => http://http2.mlstatic.com/D_789392-MLB81240972386_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_789392-MLB81240972386_122024-O.jpg
+                    [size] => 500x448
+                    [max_size] => 1200x1076
+                    [quality] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 761497-MLB81667570544_012025
+                    [url] => http://http2.mlstatic.com/D_761497-MLB81667570544_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_761497-MLB81667570544_012025-O.jpg
+                    [size] => 492x500
+                    [max_size] => 1159x1176
+                    [quality] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 985448-MLB81667520826_012025
+                    [url] => http://http2.mlstatic.com/D_985448-MLB81667520826_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_985448-MLB81667520826_012025-O.jpg
+                    [size] => 498x500
+                    [max_size] => 1197x1200
+                    [quality] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 841165-MLB81267111204_122024
+                    [url] => http://http2.mlstatic.com/D_841165-MLB81267111204_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_841165-MLB81267111204_122024-O.jpg
+                    [size] => 500x498
+                    [max_size] => 1200x1196
+                    [quality] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 671565-MLB81240972396_122024
+                    [url] => http://http2.mlstatic.com/D_671565-MLB81240972396_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_671565-MLB81240972396_122024-O.jpg
+                    [size] => 500x468
+                    [max_size] => 1200x1124
+                    [quality] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 636756-MLB81667786382_012025
+                    [url] => http://http2.mlstatic.com/D_636756-MLB81667786382_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_636756-MLB81667786382_012025-O.jpg
+                    [size] => 492x500
+                    [max_size] => 1159x1176
+                    [quality] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 621488-MLB81667570570_012025
+                    [url] => http://http2.mlstatic.com/D_621488-MLB81667570570_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_621488-MLB81667570570_012025-O.jpg
+                    [size] => 498x500
+                    [max_size] => 1197x1200
+                    [quality] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 907430-MLB81267111406_122024
+                    [url] => http://http2.mlstatic.com/D_907430-MLB81267111406_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_907430-MLB81267111406_122024-O.jpg
+                    [size] => 500x499
+                    [max_size] => 1200x1199
+                    [quality] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 837395-MLB81240972392_122024
+                    [url] => http://http2.mlstatic.com/D_837395-MLB81240972392_122024-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_837395-MLB81240972392_122024-O.jpg
+                    [size] => 500x462
+                    [max_size] => 1200x1110
+                    [quality] => 
+                )
+
+            [21] => Array
+                (
+                    [id] => 947827-MLB81939980061_012025
+                    [url] => http://http2.mlstatic.com/D_947827-MLB81939980061_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_947827-MLB81939980061_012025-O.jpg
+                    [size] => 492x500
+                    [max_size] => 1159x1176
+                    [quality] => 
+                )
+
+            [22] => Array
+                (
+                    [id] => 730858-MLB81667746752_012025
+                    [url] => http://http2.mlstatic.com/D_730858-MLB81667746752_012025-O.jpg
+                    [secure_url] => https://http2.mlstatic.com/D_730858-MLB81667746752_012025-O.jpg
+                    [size] => 498x500
+                    [max_size] => 1197x1200
+                    [quality] => 
+                )
+
+        )
+
+    [video_id] => 
+    [descriptions] => Array
+        (
+        )
+
+    [accepts_mercadopago] => 1
+    [non_mercado_pago_payment_methods] => Array
+        (
+        )
+
+    [shipping] => Array
+        (
+            [mode] => me2
+            [methods] => Array
+                (
+                )
+
+            [tags] => Array
+                (
+                    [0] => self_service_in
+                )
+
+            [dimensions] => 
+            [local_pick_up] => 
+            [free_shipping] => 
+            [logistic_type] => fulfillment
+            [store_pick_up] => 
+        )
+
+    [international_delivery_mode] => none
+    [seller_address] => Array
+        (
+            [comment] => Empresa Direct Full
+            [address_line] => Rua Taipas 245
+            [zip_code] => 09560200
+            [city] => Array
+                (
+                    [id] => BR-SP-40
+                    [name] => São Caetano do Sul
+                )
+
+            [state] => Array
+                (
+                    [id] => BR-SP
+                    [name] => São Paulo
+                )
+
+            [country] => Array
+                (
+                    [id] => BR
+                    [name] => Brasil
+                )
+
+            [search_location] => Array
+                (
+                    [neighborhood] => Array
+                        (
+                            [id] => TUxCQlNBTjM0Njla
+                            [name] => Santa Maria
+                        )
+
+                    [city] => Array
+                        (
+                            [id] => TUxCQ1NQLTQ1MDE
+                            [name] => São Caetano do Sul
+                        )
+
+                    [state] => Array
+                        (
+                            [id] => TUxCUFNBT085N2E4
+                            [name] => São Paulo
+                        )
+
+                )
+
+            [latitude] => -23.625023
+            [longitude] => -46.55416
+            [id] => 1442755163
+        )
+
+    [seller_contact] => 
+    [location] => Array
+        (
+        )
+
+    [geolocation] => Array
+        (
+            [latitude] => -23.625023
+            [longitude] => -46.55416
+        )
+
+    [coverage_areas] => Array
+        (
+        )
+
+    [attributes] => Array
+        (
+            [0] => Array
+                (
+                    [id] => BRAND
+                    [name] => Marca
+                    [value_id] => 276243
+                    [value_name] => Genérica
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 276243
+                                    [name] => Genérica
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => string
+                )
+
+            [1] => Array
+                (
+                    [id] => DIAMETER
+                    [name] => Diâmetro
+                    [value_id] => 
+                    [value_name] => 40 cm
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 40 cm
+                                    [struct] => Array
+                                        (
+                                            [number] => 40
+                                            [unit] => cm
+                                        )
+
+                                )
+
+                        )
+
+                    [value_type] => number_unit
+                )
+
+            [2] => Array
+                (
+                    [id] => IS_ABSORBENT
+                    [name] => É absorvente
+                    [value_id] => 242085
+                    [value_name] => Sim
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 242085
+                                    [name] => Sim
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [3] => Array
+                (
+                    [id] => IS_HYPOALLERGENIC_PRODUCT
+                    [name] => É um produto hipoalergênico
+                    [value_id] => -1
+                    [value_name] => 
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => -1
+                                    [name] => 
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [4] => Array
+                (
+                    [id] => IS_NON_SLIP
+                    [name] => É antiderrapante
+                    [value_id] => 242085
+                    [value_name] => Sim
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 242085
+                                    [name] => Sim
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [5] => Array
+                (
+                    [id] => IS_REVERSIBLE
+                    [name] => É reversível
+                    [value_id] => -1
+                    [value_name] => 
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => -1
+                                    [name] => 
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [6] => Array
+                (
+                    [id] => IS_SUITABLE_FOR_BLEACH
+                    [name] => É apto para alvejante
+                    [value_id] => 242085
+                    [value_name] => Sim
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 242085
+                                    [name] => Sim
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [7] => Array
+                (
+                    [id] => IS_SUITABLE_FOR_DRYER
+                    [name] => É adequado para secadora
+                    [value_id] => 242085
+                    [value_name] => Sim
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 242085
+                                    [name] => Sim
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [8] => Array
+                (
+                    [id] => IS_SUITABLE_FOR_IRONING
+                    [name] => É adequado para passar a ferro
+                    [value_id] => 242084
+                    [value_name] => Não
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 242084
+                                    [name] => Não
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [9] => Array
+                (
+                    [id] => IS_SUITABLE_FOR_WASHING_MACHINE
+                    [name] => É adequado para máquina de lavar roupa
+                    [value_id] => 242085
+                    [value_name] => Sim
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 242085
+                                    [name] => Sim
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => boolean
+                )
+
+            [10] => Array
+                (
+                    [id] => ITEM_CONDITION
+                    [name] => Condição do item
+                    [value_id] => 2230284
+                    [value_name] => Novo
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 2230284
+                                    [name] => Novo
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => list
+                )
+
+            [11] => Array
+                (
+                    [id] => LENGTH
+                    [name] => Comprimento
+                    [value_id] => 
+                    [value_name] => 40 cm
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 40 cm
+                                    [struct] => Array
+                                        (
+                                            [number] => 40
+                                            [unit] => cm
+                                        )
+
+                                )
+
+                        )
+
+                    [value_type] => number_unit
+                )
+
+            [12] => Array
+                (
+                    [id] => LINE
+                    [name] => Linha
+                    [value_id] => 363410
+                    [value_name] => Soft
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 363410
+                                    [name] => Soft
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => string
+                )
+
+            [13] => Array
+                (
+                    [id] => MATERIALS
+                    [name] => Materiais
+                    [value_id] => 466794
+                    [value_name] => Poliéster
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 466794
+                                    [name] => Poliéster
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => string
+                )
+
+            [14] => Array
+                (
+                    [id] => MAX_CLEANING_TEMPERATURE
+                    [name] => Temperatura máxima de lavagem
+                    [value_id] => 
+                    [value_name] => 20 °C
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 20 °C
+                                    [struct] => Array
+                                        (
+                                            [number] => 20
+                                            [unit] => °C
+                                        )
+
+                                )
+
+                        )
+
+                    [value_type] => number_unit
+                )
+
+            [15] => Array
+                (
+                    [id] => MODEL
+                    [name] => Modelo
+                    [value_id] => 17286879
+                    [value_name] => Tapete de Banheiro
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 17286879
+                                    [name] => Tapete de Banheiro
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => string
+                )
+
+            [16] => Array
+                (
+                    [id] => PRODUCT_FEATURES
+                    [name] => Características do produto
+                    [value_id] => 8847339
+                    [value_name] => Sem validade
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 8847339
+                                    [name] => Sem validade
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => list
+                )
+
+            [17] => Array
+                (
+                    [id] => SALE_FORMAT
+                    [name] => Formato de venda
+                    [value_id] => 1359391
+                    [value_name] => Unidade
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 1359391
+                                    [name] => Unidade
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => list
+                )
+
+            [18] => Array
+                (
+                    [id] => SHAPE
+                    [name] => Forma
+                    [value_id] => 1163800
+                    [value_name] => Retangular
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 1163800
+                                    [name] => Retangular
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => string
+                )
+
+            [19] => Array
+                (
+                    [id] => SHIPMENT_PACKING
+                    [name] => Embalagem do envío
+                    [value_id] => 7575939
+                    [value_name] => Auto-expedível
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 7575939
+                                    [name] => Auto-expedível
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => list
+                )
+
+            [20] => Array
+                (
+                    [id] => UNITS_PER_PACK
+                    [name] => Unidades por kit
+                    [value_id] => 
+                    [value_name] => 1
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 1
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => number
+                )
+
+            [21] => Array
+                (
+                    [id] => UNITS_PER_PACKAGE
+                    [name] => Unidades por embalagem
+                    [value_id] => 
+                    [value_name] => 1
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 1
+                                    [struct] => 
+                                )
+
+                        )
+
+                    [value_type] => number
+                )
+
+            [22] => Array
+                (
+                    [id] => WEIGHT
+                    [name] => Peso
+                    [value_id] => 
+                    [value_name] => 220 g
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 220 g
+                                    [struct] => Array
+                                        (
+                                            [number] => 220
+                                            [unit] => g
+                                        )
+
+                                )
+
+                        )
+
+                    [value_type] => number_unit
+                )
+
+            [23] => Array
+                (
+                    [id] => WIDTH
+                    [name] => Largura
+                    [value_id] => 
+                    [value_name] => 60 cm
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 
+                                    [name] => 60 cm
+                                    [struct] => Array
+                                        (
+                                            [number] => 60
+                                            [unit] => cm
+                                        )
+
+                                )
+
+                        )
+
+                    [value_type] => number_unit
+                )
+
+        )
+
+    [warnings] => Array
+        (
+        )
+
+    [listing_source] => 
+    [variations] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 182575287966
+                    [price] => 59.9
+                    [attribute_combinations] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => COLOR
+                                    [name] => Cor
+                                    [value_id] => 51993
+                                    [value_name] => Vermelho
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 51993
+                                                    [name] => Vermelho
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [available_quantity] => 1
+                    [sold_quantity] => 1
+                    [sale_terms] => Array
+                        (
+                        )
+
+                    [picture_ids] => Array
+                        (
+                            [0] => 751690-MLB81240972384_122024
+                            [1] => 680090-MLB81667648702_012025
+                            [2] => 920585-MLB81667658654_012025
+                        )
+
+                    [seller_custom_field] => 
+                    [catalog_product_id] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PACKAGE_HEIGHT
+                                    [name] => Altura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 7.5 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 7.5
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7.5 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 7.5
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => PACKAGE_LENGTH
+                                    [name] => Comprimento da embalagem
+                                    [value_id] => 
+                                    [value_name] => 33.3 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 33.3
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 33.3 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 33.3
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => GTIN
+                                    [name] => Código universal de produto
+                                    [value_id] => 
+                                    [value_name] => 7908153045776
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7908153045776
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => PACKAGE_WIDTH
+                                    [name] => Largura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 20.7 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 20.7
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 20.7 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 20.7
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => PACKAGE_WEIGHT
+                                    [name] => Peso da embalagem
+                                    [value_id] => 
+                                    [value_name] => 200 g
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 200
+                                            [unit] => g
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 200 g
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 200
+                                                            [unit] => g
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => SELLER_SKU
+                                    [name] => SKU
+                                    [value_id] => 
+                                    [value_name] => 100087B
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 100087B
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [inventory_id] => IVTQ63006
+                    [item_relations] => Array
+                        (
+                        )
+
+                    [user_product_id] => MLBU2910585248
+                )
+
+            [1] => Array
+                (
+                    [id] => 182575287964
+                    [price] => 59.9
+                    [attribute_combinations] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => COLOR
+                                    [name] => Cor
+                                    [value_id] => 283165
+                                    [value_name] => Cinza
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 283165
+                                                    [name] => Cinza
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [available_quantity] => 0
+                    [sold_quantity] => 0
+                    [sale_terms] => Array
+                        (
+                        )
+
+                    [picture_ids] => Array
+                        (
+                            [0] => 687603-MLB81667519350_012025
+                            [1] => 795943-MLB81267013278_122024
+                            [2] => 834082-MLB81940086775_012025
+                            [3] => 948180-MLB81240972388_122024
+                        )
+
+                    [seller_custom_field] => 
+                    [catalog_product_id] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PACKAGE_HEIGHT
+                                    [name] => Altura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 7.7 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 7.7
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7.7 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 7.7
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => PACKAGE_LENGTH
+                                    [name] => Comprimento da embalagem
+                                    [value_id] => 
+                                    [value_name] => 32.8 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 32.8
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 32.8 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 32.8
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => GTIN
+                                    [name] => Código universal de produto
+                                    [value_id] => 
+                                    [value_name] => 7908153045776
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7908153045776
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => PACKAGE_WIDTH
+                                    [name] => Largura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 24.3 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 24.3
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 24.3 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 24.3
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => PACKAGE_WEIGHT
+                                    [name] => Peso da embalagem
+                                    [value_id] => 
+                                    [value_name] => 230 g
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 230
+                                            [unit] => g
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 230 g
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 230
+                                                            [unit] => g
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => SELLER_SKU
+                                    [name] => SKU
+                                    [value_id] => 
+                                    [value_name] => 100087A
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 100087A
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [inventory_id] => QFXU63317
+                    [item_relations] => Array
+                        (
+                        )
+
+                    [user_product_id] => MLBU2905480501
+                )
+
+            [2] => Array
+                (
+                    [id] => 182575287968
+                    [price] => 59.9
+                    [attribute_combinations] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => COLOR
+                                    [name] => Cor
+                                    [value_id] => 
+                                    [value_name] => Off-White
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => Off-White
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [available_quantity] => 1
+                    [sold_quantity] => 1
+                    [sale_terms] => Array
+                        (
+                        )
+
+                    [picture_ids] => Array
+                        (
+                            [0] => 873202-MLB81240972394_122024
+                            [1] => 685024-MLB81240972390_122024
+                            [2] => 818578-MLB81667658708_012025
+                            [3] => 961250-MLB81667746630_012025
+                        )
+
+                    [seller_custom_field] => 
+                    [catalog_product_id] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PACKAGE_HEIGHT
+                                    [name] => Altura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 7.1 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 7.1
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7.1 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 7.1
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => PACKAGE_LENGTH
+                                    [name] => Comprimento da embalagem
+                                    [value_id] => 
+                                    [value_name] => 32.7 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 32.7
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 32.7 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 32.7
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => GTIN
+                                    [name] => Código universal de produto
+                                    [value_id] => 
+                                    [value_name] => 7908153045776
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7908153045776
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => PACKAGE_WIDTH
+                                    [name] => Largura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 30.5 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 30.5
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 30.5 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 30.5
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => PACKAGE_WEIGHT
+                                    [name] => Peso da embalagem
+                                    [value_id] => 
+                                    [value_name] => 200 g
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 200
+                                            [unit] => g
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 200 g
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 200
+                                                            [unit] => g
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => SELLER_SKU
+                                    [name] => SKU
+                                    [value_id] => 
+                                    [value_name] => 100087C
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 100087C
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [inventory_id] => RCWU63023
+                    [item_relations] => Array
+                        (
+                        )
+
+                    [user_product_id] => MLBU2905478851
+                )
+
+            [3] => Array
+                (
+                    [id] => 182575287970
+                    [price] => 59.9
+                    [attribute_combinations] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => COLOR
+                                    [name] => Cor
+                                    [value_id] => 22997650
+                                    [value_name] => Grafite
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 22997650
+                                                    [name] => Grafite
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [available_quantity] => 0
+                    [sold_quantity] => 2
+                    [sale_terms] => Array
+                        (
+                        )
+
+                    [picture_ids] => Array
+                        (
+                            [0] => 918657-MLB81267120878_122024
+                            [1] => 789392-MLB81240972386_122024
+                            [2] => 761497-MLB81667570544_012025
+                            [3] => 985448-MLB81667520826_012025
+                        )
+
+                    [seller_custom_field] => 
+                    [catalog_product_id] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PACKAGE_HEIGHT
+                                    [name] => Altura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 6.1 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 6.1
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 6.1 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 6.1
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => PACKAGE_LENGTH
+                                    [name] => Comprimento da embalagem
+                                    [value_id] => 
+                                    [value_name] => 32.6 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 32.6
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 32.6 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 32.6
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => GTIN
+                                    [name] => Código universal de produto
+                                    [value_id] => 
+                                    [value_name] => 7908153045776
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7908153045776
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => PACKAGE_WIDTH
+                                    [name] => Largura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 31.6 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 31.6
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 31.6 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 31.6
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => PACKAGE_WEIGHT
+                                    [name] => Peso da embalagem
+                                    [value_id] => 
+                                    [value_name] => 220 g
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 220
+                                            [unit] => g
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 220 g
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 220
+                                                            [unit] => g
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => SELLER_SKU
+                                    [name] => SKU
+                                    [value_id] => 
+                                    [value_name] => 100087D
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 100087D
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [inventory_id] => ISZR64442
+                    [item_relations] => Array
+                        (
+                        )
+
+                    [user_product_id] => MLBU2910583588
+                )
+
+            [4] => Array
+                (
+                    [id] => 182575287972
+                    [price] => 59.9
+                    [attribute_combinations] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => COLOR
+                                    [name] => Cor
+                                    [value_id] => 52001
+                                    [value_name] => Bege
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 52001
+                                                    [name] => Bege
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [available_quantity] => 0
+                    [sold_quantity] => 0
+                    [sale_terms] => Array
+                        (
+                        )
+
+                    [picture_ids] => Array
+                        (
+                            [0] => 841165-MLB81267111204_122024
+                            [1] => 671565-MLB81240972396_122024
+                            [2] => 636756-MLB81667786382_012025
+                            [3] => 621488-MLB81667570570_012025
+                        )
+
+                    [seller_custom_field] => 
+                    [catalog_product_id] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PACKAGE_HEIGHT
+                                    [name] => Altura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 5.9 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 5.9
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 5.9 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 5.9
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => PACKAGE_LENGTH
+                                    [name] => Comprimento da embalagem
+                                    [value_id] => 
+                                    [value_name] => 34.1 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 34.1
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 34.1 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 34.1
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => GTIN
+                                    [name] => Código universal de produto
+                                    [value_id] => 
+                                    [value_name] => 7908153045776
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7908153045776
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => PACKAGE_WIDTH
+                                    [name] => Largura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 29.4 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 29.4
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 29.4 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 29.4
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => PACKAGE_WEIGHT
+                                    [name] => Peso da embalagem
+                                    [value_id] => 
+                                    [value_name] => 200 g
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 200
+                                            [unit] => g
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 200 g
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 200
+                                                            [unit] => g
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => SELLER_SKU
+                                    [name] => SKU
+                                    [value_id] => 
+                                    [value_name] => 100087E
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 100087E
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [inventory_id] => RWCR63023
+                    [item_relations] => Array
+                        (
+                        )
+
+                    [user_product_id] => MLBU2910583592
+                )
+
+            [5] => Array
+                (
+                    [id] => 182575287974
+                    [price] => 59.9
+                    [attribute_combinations] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => COLOR
+                                    [name] => Cor
+                                    [value_id] => 52038
+                                    [value_name] => Lilás
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 52038
+                                                    [name] => Lilás
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [available_quantity] => 0
+                    [sold_quantity] => 2
+                    [sale_terms] => Array
+                        (
+                        )
+
+                    [picture_ids] => Array
+                        (
+                            [0] => 907430-MLB81267111406_122024
+                            [1] => 837395-MLB81240972392_122024
+                            [2] => 947827-MLB81939980061_012025
+                            [3] => 730858-MLB81667746752_012025
+                        )
+
+                    [seller_custom_field] => 
+                    [catalog_product_id] => 
+                    [attributes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => PACKAGE_HEIGHT
+                                    [name] => Altura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 7.3 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 7.3
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7.3 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 7.3
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => PACKAGE_LENGTH
+                                    [name] => Comprimento da embalagem
+                                    [value_id] => 
+                                    [value_name] => 36.9 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 36.9
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 36.9 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 36.9
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => GTIN
+                                    [name] => Código universal de produto
+                                    [value_id] => 
+                                    [value_name] => 7908153045776
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 7908153045776
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => PACKAGE_WIDTH
+                                    [name] => Largura da embalagem
+                                    [value_id] => 
+                                    [value_name] => 30.6 cm
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 30.6
+                                            [unit] => cm
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 30.6 cm
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 30.6
+                                                            [unit] => cm
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => PACKAGE_WEIGHT
+                                    [name] => Peso da embalagem
+                                    [value_id] => 
+                                    [value_name] => 190 g
+                                    [value_struct] => Array
+                                        (
+                                            [number] => 190
+                                            [unit] => g
+                                        )
+
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 190 g
+                                                    [struct] => Array
+                                                        (
+                                                            [number] => 190
+                                                            [unit] => g
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [value_type] => number_unit
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => SELLER_SKU
+                                    [name] => SKU
+                                    [value_id] => 
+                                    [value_name] => 100087F
+                                    [value_struct] => 
+                                    [values] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [id] => 
+                                                    [name] => 100087F
+                                                    [struct] => 
+                                                )
+
+                                        )
+
+                                    [value_type] => string
+                                )
+
+                        )
+
+                    [inventory_id] => VPKP63719
+                    [item_relations] => Array
+                        (
+                        )
+
+                    [user_product_id] => MLBU2905478859
+                )
+
+        )
+
+    [status] => active
+    [sub_status] => Array
+        (
+        )
+
+    [tags] => Array
+        (
+            [0] => good_quality_thumbnail
+            [1] => immediate_payment
+            [2] => cart_eligible
+        )
+
+    [warranty] => Garantia do vendedor: 7 dias
+    [catalog_product_id] => 
+    [domain_id] => MLB-TOILET_RUGS
+    [seller_custom_field] => 100087
+    [parent_item_id] => 
+    [differential_pricing] => 
+    [deal_ids] => Array
+        (
+        )
+
+    [automatic_relist] => 
+    [date_created] => 2024-12-19T13:47:26.429Z
+    [last_updated] => 2025-07-07T20:43:00.991Z
+    [health] => 0.85
+    [catalog_listing] => 
+    [item_relations] => Array
+        (
+        )
+
+    [channels] => Array
+        (
+            [0] => marketplace
+            [1] => mshops
+        )
+
+)
+Análise Final:
+Estoque encontrado para a variação com SKU 100087A: 0

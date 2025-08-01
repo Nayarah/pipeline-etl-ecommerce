@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Trafego - Lareoff</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background-color: #f0f2f5; /* Opcional: cor de fundo para o respiro */
+        }
+        .dashboard-wrapper {
+            /* Cria um container com 20px de respiro em todos os lados */
+            padding: 20px; 
+            height: calc(100% - 40px); /* Ajusta a altura para descontar o padding */
+            box-sizing: border-box; /* Garante que o padding não aumente o tamanho total */
+        }
+        .iframe-container {
+            width: 100%;
+            height: 100%;
+            border: 0;
+            border-radius: 8px; /* Opcional: adiciona bordas arredondadas */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Opcional: adiciona uma sombra suave */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="dashboard-wrapper">
+        <iframe 
+            class="iframe-container"
+            src="https://lookerstudio.google.com/embed/reporting/79ea6078-8227-4940-bb39-a09781a6e8fe/page/QdWSF">
+        </iframe>
+    </div>
+
+</body>
+</html>
