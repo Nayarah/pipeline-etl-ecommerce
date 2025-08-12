@@ -14,7 +14,7 @@ if (!$token) { die("Não foi possível obter o token."); }
 // --- ETAPA 1: Buscar a lista de TODOS os IDs de anúncios usando o método SCROLL ---
 $all_item_ids = [];
 $scroll_id = null;
-$limit = 50;
+$limit = 40;
 
 echo "Buscando lista de anúncios ativos...\n<br>";
 

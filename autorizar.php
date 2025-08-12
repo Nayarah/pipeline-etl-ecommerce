@@ -12,4 +12,5 @@ $auth_url = "https://auth.mercadolivre.com.br/authorization" .
 // Redireciona o navegador do usuário para a página de autorização do Meli
 header('Location: ' . $auth_url);
 exit();
+//testando salvamento git
 ?>
