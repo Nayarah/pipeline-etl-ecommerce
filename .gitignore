@@ -12,3 +12,11 @@ analise (1)
 financeiro2.php
 historico2.php
 proxima_data_reversa.txt
+dashboard
+data_historico_lotes_atual.txt
+error.log
+fila_catalogo.log
+fila_trafego.log
+financeiro
+processa_estoque.log
+token.txt
